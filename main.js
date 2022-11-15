@@ -9,3 +9,5 @@ const c = {};
 const d = {
   name: "Xuan",
 };
+
+const m = {};
